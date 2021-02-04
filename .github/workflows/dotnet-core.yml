@@ -45,8 +45,8 @@ jobs:
 
     - name: Build
       run: |
-        dotnet restore ConsoleApp3.csproj
-        msbuild /t:Pack /p:Configuration=Debug ConsoleApp3.csproj
+        dotnet restore ConsoleApp4.csproj
+        msbuild /t:Pack /p:Configuration=Debug ConsoleApp4.csproj
     
     - name: Copy
       run: copy bin/Debug/*.nupkg .

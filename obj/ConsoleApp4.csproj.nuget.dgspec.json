@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\youcode\\Documents\\GitHub\\testWork\\ConsoleApp3.csproj": {}
+    "C:\\Users\\youcode\\source\\repos\\ConsoleApp4\\ConsoleApp4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\youcode\\Documents\\GitHub\\testWork\\ConsoleApp3.csproj": {
+    "C:\\Users\\youcode\\source\\repos\\ConsoleApp4\\ConsoleApp4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\youcode\\Documents\\GitHub\\testWork\\ConsoleApp3.csproj",
-        "projectName": "ConsoleApp3",
-        "projectPath": "C:\\Users\\youcode\\Documents\\GitHub\\testWork\\ConsoleApp3.csproj",
+        "projectUniqueName": "C:\\Users\\youcode\\source\\repos\\ConsoleApp4\\ConsoleApp4.csproj",
+        "projectName": "ConsoleApp4",
+        "projectPath": "C:\\Users\\youcode\\source\\repos\\ConsoleApp4\\ConsoleApp4.csproj",
         "packagesPath": "C:\\Users\\youcode\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\youcode\\Documents\\GitHub\\testWork\\obj\\",
+        "outputPath": "C:\\Users\\youcode\\source\\repos\\ConsoleApp4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\youcode\\AppData\\Roaming\\NuGet\\NuGet.Config",
